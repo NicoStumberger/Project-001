@@ -8,3 +8,5 @@ Qué hicimos:
 2. Y comencé a hacer algunos cambios
 
 Y ahora voy a stagear y commitear
+
+Aca pruebo modificar el master en la nube, para que veas que dps cuando hagamos merge localmente, haya diff...
