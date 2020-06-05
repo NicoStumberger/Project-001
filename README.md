@@ -12,4 +12,5 @@ Qué hicimos:
 
 Y ahora voy a stagear y commitear
 
-AHora voy a hacer cambios locales para que entre en conflicto con el master modificado en la nube o en otro lado.
+Aca pruebo modificar el master en la nube, para que veas que dps cuando hagamos merge localmente, haya diff...
+>>>>>>> dccde3fce0e0204c91dcccb74d9ee485e59bed3a
